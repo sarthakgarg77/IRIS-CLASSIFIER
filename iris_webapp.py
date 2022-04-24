@@ -17,7 +17,7 @@ def classify(num):
 def main():
     st.title("Sejal")
     html_temp = """
-    <div style="background-color:blue ;padding:10px">
+    <div style="background-color:hazal ;padding:10px">
     <h2 style="color:white;text-align:center;">Iris Classification</h2>
     </div>
     """
